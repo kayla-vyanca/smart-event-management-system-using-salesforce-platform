@@ -1,0 +1,2 @@
+# smart-event-management-system-using-salesforce-platform
+This project involves developing a comprehensive Event Management System on the Salesforce platform. The system aims to streamline event planning, registration, and participant communication processes for organizations. It will leverage Salesforce's capabilities to create a centralized platform for managing events, tracking registrations, and engag
